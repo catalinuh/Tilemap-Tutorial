@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/catalinuh/Tilemap-Tutorial/issues"
   },
-  "homepage": "https://github.com/catalinuh/Tilemap-Tutorial#readme"
+  "homepage": "https://github.com/catalinuh/Tilemap-Tutorial#readme",
+  "dependencies": {
+    "phaser": "^3.50.0"
+  }
 }
